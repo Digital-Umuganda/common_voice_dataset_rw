@@ -1,0 +1,1 @@
+The entire kinyarwanda corpus used to train the Deepspeech kinyarwanda model
